@@ -1,4 +1,4 @@
-# 🚀 Automatic Oh-My-Zsh Installation & Configuration Tool
+# 🚀 Automatic Oh-My-Zsh Installation Tool
 
 This repository provides an **unattended installation and configuration tool** for setting up a modern Zsh environment with **Oh My Zsh**, the **Powerlevel10k theme**, and a curated set of plugins.  
 It is designed to save time and ensure a consistent developer experience across machines and servers.
