@@ -8,7 +8,8 @@ sudo apt update && sudo apt install -y zsh git curl
 
 # 2. Cambiar shell por defecto al usuario actual
 echo "Cambiando shell por defecto a zsh..."
-sudo chsh -s $(which zsh) $(whoami)
+CURRENT_USER=$USER
+sudo chsh -s $(which zsh) $CURRENT_USER
 
 # 3. Instalar Oh My Zsh
 echo "Instalando Oh My Zsh..."
