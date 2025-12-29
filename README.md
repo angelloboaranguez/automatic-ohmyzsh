@@ -40,10 +40,10 @@ It is designed to save time and ensure a consistent developer experience across 
 Clone the repository and run the script:
 
 ```bash
-git clone https://github.com/yourusername/unattended-zsh-setup.git
-cd unattended-zsh-setup
-chmod +x install.sh
-./install.sh
+git clone https://github.com/angelloboaranguez/automatic-ohmyzsh.git
+cd automatic-ohmyzsh
+chmod +x setup_ohmyzsh.sh
+./setup_ohmyzsh.sh
 ```
 
 The script will:  
